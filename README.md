@@ -1,8 +1,27 @@
-# React + Vite
+# Sistema de Administración de Pacientes Veterinarios
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto permite realizar una administración de los pacientes que llegan a una veterinaria. Contiene funcionalidades como validaciones de formulario, tarjetas de pacientes, entre otras cosas. Ha sido desarrollado utilizando React, JavaScript, Vite y Tailwind CSS.
 
-Currently, two official plugins are available:
+## Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- JavaScript
+- Vite
+- Tailwind CSS
+
+## Hooks Utilizados
+
+Este proyecto hace uso de varios hooks de React, incluyendo:
+
+- useState
+- useEffect
+
+Estos hooks son esenciales para gestionar el estado y el ciclo de vida de los componentes, lo que permite una experiencia de usuario más dinámica y eficiente.
+
+## Prueba la Aplicación
+
+Puedes probar la funcionalidad del sistema accediendo al siguiente enlace:
+
+[Administración de Pacientes Veterinarios en producción](https://veterinaria-danielbriseno.netlify.app/)
+
+¡Administra los pacientes de tu veterinaria de manera efectiva y eficiente!
